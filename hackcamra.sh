@@ -15,7 +15,7 @@ show_banner() {
     echo -e "██████╔╝██"
     echo -e "╚═════╝${NC}"
     echo -e "${YELLOW}-----------------------------------------------------------------------------------"
-    echo -e "[+] Tool      : Hack Camera -DF"
+    echo -e "[+] Tool      : Hack Camera-DF"
     echo -e "[+] Coder     : @A_Y_TR"
     echo -e "[+] Channel   : https://t.me/cybersecurityTemDF"
     echo -e "[+] Version   : 1.0"
