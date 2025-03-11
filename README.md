@@ -1,7 +1,5 @@
 # Hack-Camra-Link
 
-
-# Hack Camera Link
 #آلقيـــــــــــــــآدهہ‌‏ آلزعيـــم
 A tool to generate camera tracking links using `serveo.net`.
 
