@@ -1,6 +1,6 @@
 # Hack-Camra-Link
 
-```markdown
+
 # Hack Camera Link
 #آلقيـــــــــــــــآدهہ‌‏ آلزعيـــم
 A tool to generate camera tracking links using `serveo.net`.
@@ -42,9 +42,3 @@ For any inquiries or issues, you can reach out via the channel:
 [Cybersecurity Team DF](https://t.me/cybersecurityTemDF)
 ```
 
-### Key Features of the README:
-1. **Developer Information**: Includes the developer's name and channel link.
-2. **Installation Commands**: Step-by-step instructions to install and run the tool.
-3. **Usage Instructions**: Explains how to use the tool effectively.
-4. **Notes**: Highlights the ethical use of the tool.
-5. **Contact**: Provides a link to the developer's channel for support.
